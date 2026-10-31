@@ -20,4 +20,5 @@ ubuntu-26.04 (virtualbox, 0, (amd64))
 ansible-playbook -i ./hosts nginx.yml
 
 Результат:
+
 ![Скриншот](img/1.png)
