@@ -19,5 +19,4 @@ ubuntu-26.04 (virtualbox, 0, (amd64))
 Запуск плейбука:
 ansible-playbook -i ./hosts nginx.yml
 
-Результат:
-img/1.png
+![Скриншот](img/1.png)
